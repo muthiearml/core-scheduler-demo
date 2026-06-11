@@ -1,7 +1,4 @@
 # core-scheduler-demo
-Repository for Core Scheduler documentation and integration testing with Confluence.
+## Known Issues
 
-☑ Add README
-Public
-No .gitignore
-No license
+No documented issues yet.
